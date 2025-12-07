@@ -1,15 +1,15 @@
-<!-- 
+<!--
 Sync Impact Report:
-Version change: n/a → 1.0.0
-Added sections: All sections
+Version change: 1.0.0 → 1.1.0
+Added sections: Scope, Objectives, Methodology, Content Structure, Quality Standards, Review Process, Amendment Rules
 Templates requiring updates: n/a
 Follow-up TODOs: none
 -->
 
 # Constitution: Physical AI & Humanoid Robotics Book
 
-Version: 1.0.0  
-Ratification Date: 2025-12-07  
+Version: 1.1.0
+Ratification Date: 2025-12-07
 Last Amended Date: 2025-12-07
 
 ## Vision
@@ -99,3 +99,124 @@ Focus on what readers can do with the knowledge they gain, emphasizing real appl
 
 ### Inclusive and Diverse
 Acknowledge the diverse backgrounds of readers and ensure the content and examples are accessible to individuals from various cultural, educational, and professional backgrounds.
+
+## Scope
+
+### In Scope
+- Fundamentals of Physical AI and embodied cognition
+- Hardware components of humanoid robots (sensors, actuators, control systems)
+- Software architectures for robot control and planning
+- Locomotion and manipulation algorithms
+- Perception systems (computer vision, tactile sensing, etc.)
+- Human-robot interaction principles
+- Simulation environments for robot development
+- Real-world implementation projects
+
+### Out of Scope
+- Detailed hardware design and manufacturing processes
+- Deep theoretical mathematics beyond practical application
+- Proprietary robot platforms without open documentation
+- Non-humanoid robotic systems (wheeled, aerial, industrial robots)
+- Advanced research topics without practical implementation guidance
+
+## Objectives
+
+### Primary Objectives
+- Enable readers to understand and implement basic humanoid robot behaviors
+- Provide hands-on experience with common robotics platforms and tools
+- Bridge the gap between academic theory and practical implementation
+- Foster a community of practitioners in Physical AI and humanoid robotics
+
+### Secondary Objectives
+- Encourage responsible development of AI and robotics technologies
+- Introduce readers to current research directions and future possibilities
+- Facilitate collaboration between industry and academic approaches
+- Prepare readers for advanced study or professional work in robotics
+
+## Methodology
+
+### Development Approach
+- Content development follows an iterative, community-driven model
+- Each concept follows the "Explain, Demonstrate, Practice" sequence
+- Real-world case studies complement theoretical explanations
+- Interactive elements and hands-on exercises are integral to each module
+
+### Content Creation Process
+- Collaborative authoring with domain experts and practitioners
+- Continuous integration with feedback from early adopters
+- Regular updates to reflect evolving technologies and best practices
+- Peer review process for technical accuracy and pedagogical effectiveness
+
+## Content Structure
+
+### Organization
+- Content is organized into progressive modules from beginner to intermediate levels
+- Each module builds upon previous knowledge while remaining as self-contained as possible
+- Cross-references connect related concepts across different modules
+- Learning paths allow for different interests and prior knowledge levels
+
+### Documentation Format
+- All content delivered through Docusaurus documentation platform
+- Interactive code examples with live execution environments where possible
+- Video demonstrations for complex physical processes
+- 3D visualizations and animations for abstract concepts
+- Downloadable project files and assets for hands-on exercises
+
+### Navigation Structure
+- Hierarchical structure with clear progression from basic to advanced topics
+- Multiple entry points for different skill levels and interests
+- Search functionality to quickly locate specific information
+- Cross-links between related concepts and prerequisites
+
+## Quality Standards
+
+### Technical Accuracy
+- All code examples must be tested and verified to work with specified dependencies
+- Technical content must be reviewed by domain experts before publication
+- Regular updates to address deprecated dependencies or APIs
+- Clear indication of version compatibility for all tools and libraries
+
+### Pedagogical Quality
+- Learning objectives clearly stated at the beginning of each module
+- Concepts introduced in appropriate order building from foundational knowledge
+- Consistent use of terminology with clear definitions provided
+- Ample examples and exercises to reinforce learning
+
+### Accessibility Standards
+- Content must be accessible to screen readers and other assistive technologies
+- Alternative text provided for all images and diagrams
+- Keyboard navigation support for all interactive elements
+- Multiple learning modalities addressed (text, visual, hands-on)
+
+## Review Process
+
+### Content Review
+- Technical content reviewed by domain experts in Physical AI and robotics
+- Pedagogical review by educators with experience in technical subjects
+- Accessibility review to ensure compliance with WCAG 2.1 guidelines
+- Regular community feedback integration through surveys and discussions
+
+### Update Process
+- Quarterly reviews of all modules for accuracy and relevance
+- Immediate updates for critical technical issues or deprecated dependencies
+- Annual comprehensive review of overall content organization and learning paths
+- Continuous monitoring of user feedback and engagement metrics
+
+## Amendment Rules
+
+### Change Process
+- All constitution amendments proposed through formal change request process
+- Proposed changes reviewed by core team and community stakeholders
+- Amendments require approval by a supermajority (2/3) of core team members
+- Change logs maintained for all substantive updates to the constitution
+
+### Versioning
+- Major version increments (e.g., 1.x.x to 2.x.x) for fundamental changes to core principles or scope
+- Minor version increments (e.g., 1.1.x to 1.2.x) for additions or modifications to processes or standards
+- Patch version increments (e.g., 1.0.1 to 1.0.2) for corrections, clarifications, or minor adjustments
+
+### Ratification
+- Constitution amendments become effective upon formal ratification
+- Community notification within 30 days of all significant amendments
+- Implementation timeline provided for changes requiring workflow modifications
+- Rollback procedures documented for any unsuccessful amendments
